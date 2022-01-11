@@ -1,0 +1,42 @@
+
+Nome: Helena Gallo
+CPF: 77788899911
+Data de Nascimento: 22/03/1985
+E-mail: helena@hotmail.com
+Telefone: 1933455514
+Comorbidades: 
+Data do Diagnóstico: 23/11/2021
+Rua: 23
+Número: 08 Casa 2
+Bairro: Jd. Itaquera
+Cidade: SÆo Paulo
+Estado: SP
+CEP: 22000478
+
+Nome: Vitor Esteves
+CPF: 44433311122
+Data de Nascimento: 11/08/1947
+E-mail: esteve@hotmail.com
+Telefone: 19988356565
+Comorbidades: Diabetes
+Data do Diagnóstico: 23/11/2021
+Rua: Quinze
+Número: 105
+Bairro: Centro
+Cidade: Monte Verde
+Estado: MG
+CEP: 30645123
+
+Nome: Gabriel Mendes Oliveira
+CPF: 23245478796
+Data de Nascimento: 22/03/1985
+E-mail: gabriel@unip.com.br
+Telefone: 1933814477
+Comorbidades: 
+Data do Diagnóstico: 23/11/2021
+Rua: 15
+Número: 103 Casa B
+Bairro: Jd. 7 de Setembro
+Cidade: Campinas
+Estado: SP
+CEP: 13000555
